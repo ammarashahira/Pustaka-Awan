@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Awan",
+  "description": "Perpustakaan digital bernuansa dongeng pastel biru dan merah jambu dengan peminjaman buku online, ruang baca interaktif, serta sistem pengingat pengembalian otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
